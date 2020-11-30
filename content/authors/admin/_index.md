@@ -77,3 +77,5 @@ user_groups:
 ---
 
 Kristina Bishop is a doctoral candidate in economics at Southern Methodist University. My research interests include household consumption and intergenerational mobility.
+
+
