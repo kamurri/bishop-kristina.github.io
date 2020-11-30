@@ -18,7 +18,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kristina Bishop is a doctoral candidate in economics at Southern Methodist University. My research interests include household consumption and intergenerational mobility.
+bio: """Kristina Bishop is a doctoral candidate in economics at Southern Methodist University. My research interests include household consumption and intergenerational mobility. 
+
+I use quantitative models and micro-data to answer questions about transmission of behavior from parents to children in terms of geography, consumption, and culture."""
 
 interests:
 - Family economics
