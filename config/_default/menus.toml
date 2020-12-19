@@ -12,20 +12,20 @@
 #  name = "Publications"
 #  url = "#publications"
 #  weight = 20
-  
+
 [[main]]
     name = "Working papers"
     url = "#working-papers"
 #    weight = 30
     weight = 20
-    
+
 [[main]]
    name = "Work in Progress"
    url = "#work-in-progress"
    weight = 30
-    
+
 [[main]]
-   name = "Research"
+   name = "Professional Research Experience"
    url = "#research"
    weight = 40
 
