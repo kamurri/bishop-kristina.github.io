@@ -16,13 +16,11 @@ weight = 120
 +++
 
 ### Instructor
-Principles of Economics
-
+Principles of Economics \\
 Pilates, Barre, and Ballet Burn
 
 ### Teaching Assistant
-Principles of Statistics, Statistics for Engineers and Scientists, Design and Analysis of Experiments, Introduction to Bayesian Statistics, Statistical Methods for Research I
-
+Principles of Statistics, Statistics for Engineers and Scientists, Design and Analysis of Experiments, Introduction to Bayesian Statistics, Statistical Methods for Research I \\
 Intermediate Microeconomics, Intermediate Macroeconomics, Behavioral and Experimental Economics
 
 ### Upper Division Mathematics Tutor 
