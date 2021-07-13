@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2011-08-24"
   date_end = "2012-04-30"
-  description = """Analysis on the implementation of a new teaching curriculum to middle- and high-school math students to determine effectiveness"""
+  description = """Analysis on the implementation and effectiveness of a new teaching curriculum to middle- and high-school math students"""
 
 
 [[experience]]
@@ -73,5 +73,14 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = "2021-06-29"
   description = """Provided data for Intra- and intergenerational food security in the PSID with discussions on measurement error"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "SMU Economics Department- Kathy Hayes"
+  company_url = ""
+  location = ""
+  date_start = "2021-06-05"
+  date_end = "2021-07-16"
+  description = """Stochastic frontier analysis on German theatre data"""
 
 +++
