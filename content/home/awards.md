@@ -21,11 +21,21 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Albert W. Niemi Center for Economic Growth and Leadership Development"
   organization_url = ""
-  title = "Niemi Fellow"
+  title = "Niemi Fellowship"
   url = ""
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "BYU Law School"
+  organization_url = ""
+  title = "Empirical Legal Studies Research Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-29"
+  date_end = "2021-08-29"
   description = ""
 
 [[item]]
@@ -77,4 +87,15 @@ date_format = "Jan 2006"
   date_start = "2014-07-01"
   date_end = ""
   description = "" 
+  
+  [[item]]
+  organization = "Hotel Playa del Sol, Los Barriles, Baja California Sur, Mexico"
+  organization_url = ""
+  title = "First Place Team in 6th Annual Roosterfish on a Fly Tournament"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-01"
+  date_end = ""
+  description = "" 
+  
 +++
