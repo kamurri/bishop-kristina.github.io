@@ -58,4 +58,23 @@ date_format = "Jan 2006"
   date_end = ""
   description = "" 
 
+[[item]]
+  organization = "PEO"
+  organization_url = ""
+  title = "Nomination for PEO Scholar"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-08-21"
+  date_end = ""
+  description = "" 
+
+[[item]]
+  organization = "World Dance Movement"
+  organization_url = ""
+  title = "Third Place at World Dance Movement Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-07-01"
+  date_end = ""
+  description = "" 
 +++
