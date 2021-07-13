@@ -15,7 +15,7 @@ weight = 110
 
 +++
 
-### Intergenerational Consumption Smoothing
+### Household Resilience and Recovery: Income Dynamics in the SIPP
 Job market paper
 
 
